@@ -23,4 +23,5 @@ Online Mobile Store (Frontend): Developed in HTML, CSS, and JavaScript, featurin
 
 📫 How to reach me
 Email: usmanahmad417406@example.com
+
 LinkedIn: https://www.linkedin.com/in/usman-a-017822229/
