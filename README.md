@@ -19,6 +19,8 @@ Advanced SQL queries
 
 👨‍💻 Projects
 Online Cinema Booking System: Built using Python, Tkinter, and SQLite, with a login system, movie booking, and ticket management.
+
+
 Online Mobile Store (Frontend): Developed in HTML, CSS, and JavaScript, featuring a homepage, products page, login page, and more.
 
 📫 How to reach me
