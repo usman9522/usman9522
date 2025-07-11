@@ -12,11 +12,11 @@ Web Development: HTML, CSS, JavaScript (Basic)
 Mathematics & Statistics: Linear Algebra, Probability
 Tools & Platforms: Git, GitHub, Oracle SQL Developer, Visual Studio Code, Jupyter Notebook
 
-🌱 Currently Learning
-NLP 
-Deep Learning
-Conversational AI
-Big Data Techniques 
+🌱 Currently Learning <br>
+NLP <br>
+Deep Learning <br>
+Conversational AI<br>
+Big Data Techniques <br>
 
 👨‍💻 Projects
 Online Cinema Booking System: Built using Python, Tkinter, and SQLite, with a login system, movie booking, and ticket management.
