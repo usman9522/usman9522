@@ -13,9 +13,10 @@ Mathematics & Statistics: Linear Algebra, Probability
 Tools & Platforms: Git, GitHub, Oracle SQL Developer, Visual Studio Code, Jupyter Notebook
 
 🌱 Currently Learning
-Machine Learning Fundamentals
-Data Visualization techniques
-Advanced SQL queries
+NLP 
+Deep Learning
+Conversational AI
+Big Data Techniques 
 
 👨‍💻 Projects
 Online Cinema Booking System: Built using Python, Tkinter, and SQLite, with a login system, movie booking, and ticket management.
@@ -24,6 +25,6 @@ Online Cinema Booking System: Built using Python, Tkinter, and SQLite, with a lo
 Online Mobile Store (Frontend): Developed in HTML, CSS, and JavaScript, featuring a homepage, products page, login page, and more.
 
 📫 How to reach me
-Email: usmanahmad417406@example.com
+Email: usmanahmad417406@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/usman-a-017822229/
