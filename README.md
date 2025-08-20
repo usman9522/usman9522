@@ -2,7 +2,7 @@ Hi, I'm Usman Ahmad! 👋
 
 🎓 About Me
 
-I'm currently a Data Science student in the fourth semester of my Bachelor's degree. With a passion for coding, problem-solving, and learning, I have a strong foundation in subjects like Object-Oriented Programming (OOP), Programming Fundamentals (PF), Data Structures and Algorithms (DSA), Database Administration (SQL in Oracle), and more. I'm always looking for opportunities to apply my knowledge and grow as a data science professional.
+I'm currently a Data Science student in the final year of my Bachelor's degree. With a passion for coding, problem-solving, and learning, I have a strong foundation in subjects like Object-Oriented Programming (OOP), Programming Fundamentals (PF), Data Structures and Algorithms (DSA), Database Administration (SQL in Oracle), and more. I'm always looking for opportunities to apply my knowledge and grow as a data science professional.
 
 💻 Skills
 Programming Languages: Python, C++, SQL
