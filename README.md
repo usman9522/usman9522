@@ -11,7 +11,7 @@ Currently working as an **AI Engineer** at **Techtics.AI**, developing intellige
 - Collaborating with business developers to deliver technical solutions
 
 ### 🎓 Education
-**Bachelor of Science in Data Science** | University of the Punjab (Dec 2022 – Jul 2026)
+**Bachelor of Science in Data Science** | University of the Punjab (Dec 2022 – May 2026)
 
 ### 🛠️ Technical Skills
 **Languages & Tools:** Python, C++, SQL, JavaScript, HTML, CSS, Git, GitHub, FastAPI  
@@ -41,7 +41,7 @@ Currently working as an **AI Engineer** at **Techtics.AI**, developing intellige
 
 ### 📫 Let's Connect
 📧 **Email:** usmanahmad417406@email.com  
-💼 **LinkedIn:** [linkedin.com/in/usman-a-017822229](https://linkedin.com/in/usman-a-017822229)  
+💼 **LinkedIn:** [linkedin.com/in/usman-ahmad-017822229](https://linkedin.com/in/usman-ahmad-017822229)  
 🐙 **GitHub:** [github.com/usman9522](https://github.com/usman9522)  
 📱 **Phone:** +923251426899
 
