@@ -1,6 +1,6 @@
 # Hi, I'm Usman Ahmad! 👋
 
-## 🚀 AI Engineer | Data Science Student | Machine Learning Enthusiast
+## 🚀 AI/ML Engineer 
 
 Currently working as an **AI Engineer** at **Techtics.AI**, developing intelligent solutions and automation systems. Final-year Data Science student with strong foundations in Python, SQL, and a passion for applying ML/AI to real-world challenges.
 
