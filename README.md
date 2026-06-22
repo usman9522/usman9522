@@ -2,10 +2,10 @@
 
 ## 🚀 AI/ML Engineer 
 
-Currently working as an **AI Engineer** at **Techtics.AI**, developing intelligent solutions and automation systems. Final-year Data Science student with strong foundations in Python, SQL, and a passion for applying ML/AI to real-world challenges.
+Currently working as an **AI Engineer** at **Techtics.AI**, developing intelligent solutions and automation systems. Data Science graduate with strong foundations in Python, Machine Learning, Deep Learning, NLP, CV and a passion for applying ML/AI to real-world challenges.
 
 ### 💼 Current Role
-**AI Engineer @ Techtics.AI** (Jun 2024 - Present)
+**AI Engineer @ Techtics.AI** (Jun 2025 - Present)
 - Developing AI automation and intelligent solutions for client requirements
 - Designing and implementing machine learning models for business optimization
 - Collaborating with business developers to deliver technical solutions
@@ -14,8 +14,8 @@ Currently working as an **AI Engineer** at **Techtics.AI**, developing intellige
 **Bachelor of Science in Data Science** | University of the Punjab (Dec 2022 – May 2026)
 
 ### 🛠️ Technical Skills
-**Languages & Tools:** Python, C++, SQL, JavaScript, HTML, CSS, Git, GitHub, FastAPI  
-**AI & Machine Learning:** TensorFlow, Keras, LangGraph, LSTM, Neural Networks, RAG, NLP, Deep Learning  
+**Languages & Tools:** Python, C++, SQL, Git, GitHub, FastAPI  
+**AI & Machine Learning:** TensorFlow, Keras, LangGraph, LSTM, Neural Networks, RAG, NLP, Deep Learning, Computer Vision
 **Data & Databases:** Pandas, NumPy, MySQL, PostgreSQL, Matplotlib, Seaborn, Power BI, Excel
 
 ### 🚀 Featured Projects
