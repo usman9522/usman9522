@@ -45,7 +45,9 @@ Currently working as an **AI Engineer** at **Techtics.AI**, developing intellige
 🐙 **GitHub:** [github.com/usman9522](https://github.com/usman9522)  
 📱 **Phone:** +923251426899
 
-##Portfolio
+## Portfolio: 
+   [linkedin.com/in/usman-ahmad-017822229](https://usman-ahmad.tech)
+
 
 
 ---
